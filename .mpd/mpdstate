@@ -1,12 +1,12 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 7
-time: 90.892000
+state: play
+current: 36
+time: 43.034000
 random: 0
-repeat: 1
-single: 1
+repeat: 0
+single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
@@ -48,4 +48,6 @@ playlist_begin
 33:Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
 34:Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
 35:N3WPORT - Power .mp3
+36:Syn Cole - Gizmo [NCS Release].mp3
+37:warriyo-mortals-RGjIYW6EBO.mp3
 playlist_end
