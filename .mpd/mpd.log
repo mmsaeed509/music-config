@@ -833,3 +833,440 @@ Dec 16 13:28 : update: removing MGK - Invincible .mp3
 Dec 16 13:28 : update: removing Love Tonight.mp3
 Dec 16 13:28 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
 Dec 16 13:28 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 16 13:51 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 17 00:15 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 09:06 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 21:05 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 21:59 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 22:03 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 22:06 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 22:10 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 22:14 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 17 22:18 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 18 02:14 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 18 14:00 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Dec 18 16:10 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 19 00:47 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 19 22:57 : player: played "Love Is The Name Of The Game.mp3"
+Dec 20 00:35 : player: played "Love Is The Name Of The Game.mp3"
+Dec 20 06:13 : player: played "Love Is The Name Of The Game.mp3"
+Dec 20 09:51 : player: played "Love Is The Name Of The Game.mp3"
+Dec 20 20:01 : player: played "Love Is The Name Of The Game.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 21 02:24 : player: played "Love Is The Name Of The Game.mp3"
+Dec 22 01:11 : player: played "Love Is The Name Of The Game.mp3"
+Dec 22 07:52 : player: played "Love Is The Name Of The Game.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 22 08:29 : player: played "Love Is The Name Of The Game.mp3"
+Dec 23 01:37 : player: played "Love Is The Name Of The Game.mp3"
+Dec 23 16:08 : player: played "Love Is The Name Of The Game.mp3"
+Dec 23 16:10 : player: played "Love Is The Name Of The Game.mp3"
+Dec 23 16:11 : player: played "Love Is The Name Of The Game.mp3"
+Dec 23 16:22 : player: played "Love Is The Name Of The Game.mp3"
+Dec 23 16:25 : player: played "Love Is The Name Of The Game.mp3"
+Dec 24 00:43 : player: played "Love Is The Name Of The Game.mp3"
+Dec 24 16:08 : player: played "Love Is The Name Of The Game.mp3"
+Dec 25 00:56 : player: played "Love Is The Name Of The Game.mp3"
+Dec 25 02:49 : player: played "Love Is The Name Of The Game.mp3"
+Dec 25 09:51 : player: played "Love Is The Name Of The Game.mp3"
+Dec 25 10:25 : player: played "Love Is The Name Of The Game.mp3"
+Dec 25 22:52 : player: played "Love Is The Name Of The Game.mp3"
+Dec 26 03:42 : player: played "Love Is The Name Of The Game.mp3"
+Dec 27 01:43 : player: played "Love Is The Name Of The Game.mp3"
+Dec 27 09:33 : player: played "Love Is The Name Of The Game.mp3"
+Dec 27 16:45 : player: played "Love Is The Name Of The Game.mp3"
+Dec 27 21:24 : player: played "Love Is The Name Of The Game.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 29 00:36 : player: played "Love Is The Name Of The Game.mp3"
+Dec 29 01:18 : player: played "Love Is The Name Of The Game.mp3"
+Dec 29 06:22 : player: played "Love Is The Name Of The Game.mp3"
+Dec 29 09:29 : player: played "Love Is The Name Of The Game.mp3"
+Dec 30 20:09 : player: played "Love Is The Name Of The Game.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 31 00:59 : player: played "Love Is The Name Of The Game.mp3"
+Dec 31 11:05 : player: played "Love Is The Name Of The Game.mp3"
+Dec 31 15:30 : player: played "Love Is The Name Of The Game.mp3"
+Dec 31 15:49 : player: played "Love Is The Name Of The Game.mp3"
+Dec 31 16:31 : player: played "Love Is The Name Of The Game.mp3"
+Jan 01 03:38 : player: played "Love Is The Name Of The Game.mp3"
+Jan 02 03:34 : player: played "Love Is The Name Of The Game.mp3"
+Jan 02 13:59 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Jan 02 13:59 : player: played "Love Is The Name Of The Game.mp3"
+Jan 02 14:22 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 02 14:34 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 02 14:35 : exception: Not playing
+Jan 02 14:35 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Jan 02 22:01 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 02 22:02 : player: played "Eye of the Tiger.mp3"
+Jan 02 22:45 : player: played "Eye of the Tiger.mp3"
+Jan 03 23:36 : player: played "Eye of the Tiger.mp3"
+Jan 04 18:55 : player: played "Madonna - La Isla Bonita.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 04 22:06 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:10 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:14 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:18 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:22 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:26 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:30 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:34 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:38 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:42 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:46 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 04 22:50 : player: played "Madonna - La Isla Bonita.mp3"
+Jan 05 02:31 : player: played "Madonna - La Isla Bonita.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 06 00:37 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 06 13:49 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 06 23:55 : player: played "Olivia Addams - I'm Lost.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 08 00:57 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 08 06:04 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 08 06:44 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 09 00:26 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 09 00:49 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 10 03:04 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 10 16:54 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 11 01:18 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 11 06:12 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 11 19:58 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 11 22:59 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 12 02:32 : player: played "Olivia Addams - I'm Lost.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 13 20:39 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 14 01:41 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 14 22:02 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 15 03:42 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 16 00:46 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 16 06:43 : player: played "Olivia Addams - I'm Lost.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 17 01:56 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 17 16:02 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 17 23:29 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 18 02:44 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 18 13:38 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 18 15:02 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 19 00:12 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 19 15:22 : player: played "Olivia Addams - I'm Lost.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 20 01:47 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 20 17:23 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 21 00:48 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 21 11:35 : player: played "Olivia Addams - I'm Lost.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 21 14:24 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 21 21:58 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 22 00:29 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 22 06:54 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 23 04:35 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 24 00:48 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 24 06:44 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 24 22:06 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Jan 24 22:06 : update: added /In Havana.mp3
+Jan 24 22:06 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Jan 24 22:06 : player: played "Olivia Addams - I'm Lost.mp3"
+Jan 24 22:07 : update: updating /In Havana.mp3
+Jan 24 22:12 : player: played "In Havana.mp3"
+Jan 24 22:17 : player: played "In Havana.mp3"
+Jan 24 22:22 : player: played "In Havana.mp3"
+Jan 24 22:27 : player: played "In Havana.mp3"
+Jan 24 22:32 : player: played "In Havana.mp3"
+Jan 24 22:38 : player: played "In Havana.mp3"
+Jan 24 22:43 : player: played "In Havana.mp3"
+Jan 24 22:48 : player: played "In Havana.mp3"
+Jan 24 22:53 : player: played "In Havana.mp3"
+Jan 24 22:58 : player: played "In Havana.mp3"
+Jan 24 23:03 : player: played "In Havana.mp3"
+Jan 24 23:08 : player: played "In Havana.mp3"
+Jan 24 23:13 : player: played "In Havana.mp3"
+Jan 24 23:19 : player: played "In Havana.mp3"
+Jan 24 23:24 : player: played "In Havana.mp3"
+Jan 25 03:27 : player: played "In Havana.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 25 13:03 : player: played "In Havana.mp3"
+Jan 25 15:02 : player: played "In Havana.mp3"
+Jan 25 15:07 : player: played "In Havana.mp3"
+Jan 25 21:05 : player: played "In Havana.mp3"
+Jan 26 00:59 : player: played "In Havana.mp3"
+Jan 26 15:09 : player: played "In Havana.mp3"
+Jan 26 17:00 : player: played "In Havana.mp3"
+Jan 26 20:48 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 20:52 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 20:55 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 20:59 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 21:03 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 21:06 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 21:10 : player: played "Love Is The Name Of The Game.mp3"
+Jan 26 21:16 : player: played "In Havana.mp3"
+Jan 26 21:22 : player: played "In Havana.mp3"
+Jan 26 21:27 : player: played "In Havana.mp3"
+Jan 26 21:32 : player: played "In Havana.mp3"
+Jan 26 21:37 : player: played "In Havana.mp3"
+Jan 26 21:44 : player: played "Shakira & Rihanna - Can't Remember to Forget You.mp3"
+Jan 26 21:47 : player: played "Shakira & Rihanna - Can't Remember to Forget You.mp3"
+Jan 26 21:51 : player: played "Shakira & Rihanna - Can't Remember to Forget You.mp3"
+Jan 26 21:54 : player: played "Shakira & Rihanna - Can't Remember to Forget You.mp3"
+Jan 26 22:05 : player: played "Should I Stay Should I Go.mp3"
+Jan 26 22:08 : player: played "Should I Stay Should I Go.mp3"
+Jan 26 22:12 : player: played "Should I Stay Should I Go.mp3"
+Jan 26 22:18 : player: played "In Havana.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 26 22:21 : player: played "In Havana.mp3"
+Jan 27 04:21 : player: played "Eye of the Tiger.mp3"
+Jan 27 12:43 : player: played "Eye of the Tiger.mp3"
+Jan 27 12:47 : player: played "Eye of the Tiger.mp3"
+Jan 27 12:51 : player: played "Eye of the Tiger.mp3"
+Jan 27 12:55 : player: played "Eye of the Tiger.mp3"
+Jan 27 12:59 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:03 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:07 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:11 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:15 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:19 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:23 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:27 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:47 : player: played "Eye of the Tiger.mp3"
+Jan 27 13:56 : player: played "In Havana.mp3"
+Jan 27 14:01 : player: played "In Havana.mp3"
+Jan 27 14:06 : player: played "In Havana.mp3"
+Jan 27 14:11 : player: played "In Havana.mp3"
+Jan 27 14:54 : player: played "In Havana.mp3"
+Jan 27 14:55 : player: played "Shakira & Rihanna - Can't Remember to Forget You.mp3"
+Jan 27 16:40 : player: played "Solo - RiveR  .mp3"
+Jan 27 16:43 : player: played "Solo - RiveR  .mp3"
+Jan 27 16:47 : player: played "Solo - RiveR  .mp3"
+Jan 27 16:51 : player: played "Solo - RiveR  .mp3"
+Jan 27 16:55 : player: played "Solo - RiveR  .mp3"
+Jan 27 21:09 : player: played "Solo - RiveR  .mp3"
+Jan 28 01:38 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 28 22:53 : player: played "Solo - RiveR  .mp3"
+Jan 29 04:32 : player: played "Solo - RiveR  .mp3"
+Jan 29 20:09 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jan 31 03:06 : player: played "Solo - RiveR  .mp3"
+Jan 31 15:52 : player: played "Love Is The Name Of The Game.mp3"
+Jan 31 22:40 : player: played "Love Is The Name Of The Game.mp3"
+Feb 01 04:14 : player: played "Love Is The Name Of The Game.mp3"
+Feb 01 17:12 : player: played "Love Is The Name Of The Game.mp3"
+Feb 01 18:56 : player: played "Love Is The Name Of The Game.mp3"
+Feb 02 01:15 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 02 04:10 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 02 15:57 : player: played "Solo - RiveR  .mp3"
+Feb 02 20:04 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 03 02:34 : player: played "Solo - RiveR  .mp3"
+Feb 03 21:03 : player: played "Solo - RiveR  .mp3"
+Feb 04 00:27 : player: played "Solo - RiveR  .mp3"
+Feb 04 03:12 : player: played "Solo - RiveR  .mp3"
+Feb 04 03:16 : player: played "Solo - RiveR  .mp3"
+Feb 04 05:26 : player: played "Solo - RiveR  .mp3"
+Feb 04 16:26 : player: played "Solo - RiveR  .mp3"
+Feb 04 21:41 : player: played "Solo - RiveR  .mp3"
+Feb 04 23:51 : player: played "Solo - RiveR  .mp3"
+Feb 05 03:57 : player: played "Solo - RiveR  .mp3"
+Feb 05 16:45 : player: played "Solo - RiveR  .mp3"
+Feb 05 22:07 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 06 06:05 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 07 02:48 : player: played "Solo - RiveR  .mp3"
+Feb 07 07:02 : player: played "Solo - RiveR  .mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 08 10:00 : player: played "Solo - RiveR  .mp3"
+Feb 08 22:30 : player: played "Solo - RiveR  .mp3"
+Feb 09 05:10 : player: played "Love Is The Name Of The Game.mp3"
+Feb 09 05:14 : player: played "Love Is The Name Of The Game.mp3"
+Feb 09 11:12 : player: played "Love Is The Name Of The Game.mp3"
+Feb 10 05:31 : player: played "Love Is The Name Of The Game.mp3"
+Feb 10 15:31 : player: played "Love Is The Name Of The Game.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 10 17:37 : player: played "Love Is The Name Of The Game.mp3"
+Feb 10 23:52 : player: played "Love Is The Name Of The Game.mp3"
+Feb 11 13:47 : player: played "Love Is The Name Of The Game.mp3"
+Feb 12 00:01 : player: played "Love Is The Name Of The Game.mp3"
+Feb 12 07:33 : player: played "Love Is The Name Of The Game.mp3"
+Feb 12 21:03 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 00:49 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 00:53 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 00:57 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 01:00 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 01:04 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 01:07 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 01:11 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 01:15 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 01:18 : player: played "Love Is The Name Of The Game.mp3"
+Feb 13 04:10 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:14 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:18 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:22 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:26 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:30 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:34 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:38 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:42 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 13 04:46 : player: played "Madonna - La Isla Bonita.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 13 10:40 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 14 11:29 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 14 16:57 : player: played "Madonna - La Isla Bonita.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 14 23:41 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 15 04:06 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 15 06:43 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 16 00:57 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 16 07:53 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 16 07:56 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 16 12:17 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 16 22:10 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 17 06:54 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 17 19:32 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Feb 17 19:32 : update: added /Tobu  Back To You.mp3
+Feb 17 19:32 : update: added /Alexandra Stan   Boy Oh Boy Official Video.mp3
+Feb 17 19:32 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Feb 17 19:32 : update: updating /Alexandra Stan   Boy Oh Boy Official Video.mp3
+Feb 17 19:33 : update: updating /Tobu  Back To You.mp3
+Feb 17 19:33 : player: played "Madonna - La Isla Bonita.mp3"
+Feb 17 19:33 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Feb 17 19:34 : player: played "Alexandra Stan   Boy Oh Boy Official Video.mp3"
+Feb 18 01:14 : player: played "Alexandra Stan   Boy Oh Boy Official Video.mp3"
+Feb 18 11:16 : player: played "Alexandra Stan   Boy Oh Boy Official Video.mp3"
+Feb 18 11:19 : player: played "Alexandra Stan   Boy Oh Boy Official Video.mp3"
+Feb 18 11:24 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Feb 18 11:28 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 18 12:31 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Feb 18 19:24 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Feb 19 04:57 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Feb 19 19:20 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Feb 20 03:29 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Feb 20 09:20 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 21 11:41 : player: played "Tobu  Back To You.mp3"
+Feb 21 23:45 : player: played "Tobu  Back To You.mp3"
+Feb 22 03:54 : player: played "Tobu  Back To You.mp3"
+Feb 22 08:47 : player: played "Tobu  Back To You.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Feb 23 00:23 : player: played "Tobu  Back To You.mp3"
+Feb 23 05:22 : player: played "Tobu  Back To You.mp3"
+Feb 23 14:38 : player: played "Tobu  Back To You.mp3"
+Feb 23 14:40 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
+Feb 23 14:40 : update: removing JeffreyBezos.mp3
+Feb 23 14:40 : update: removing Masked Wolf  - Astronaut in the Ocean .mp3
+Feb 23 14:40 : update: removing Maneskin_Beggin.mp3
+Feb 23 14:40 : exception: Failed to open /home/ozil/.mpd/playlists: No such file or directory
