@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 7
-time: 36.441000
+state: pause
+current: 0
+time: 7.333000
 random: 0
 repeat: 1
 single: 1
@@ -15,14 +15,17 @@ playlist_begin
 0:Back To You - Tobu.mp3
 1:Haaland Ha Ha Ha.mp3
 2:INNA x Sean Paul  Up.mp3
-3:Madonna - La Isla Bonita.mp3
-4:Niko Pandetta- Pistole Nella Fendi.mp3
-5:Solo - River.mp3
-6:Stern des Sudens _ FC Bayern.mp3
-7:SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3
-8:Tamiga  2Bad  I Need You.mp3
-9:Tamiga 2Bad In Havana.mp3
-10:Unstoppable - Sia.mp3
-11:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
-12:warriyo-mortals-RGjIYW6EBO.mp3
+3:Love Is The Name Of The Game.mp3
+4:Madonna - La Isla Bonita.mp3
+5:Niko Pandetta- Pistole Nella Fendi.mp3
+6:Should I Stay.mp3
+7:Solo - River.mp3
+8:Stay With Me Tonight.mp3
+9:Stern des Sudens _ FC Bayern.mp3
+10:SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3
+11:Tamiga  2Bad  I Need You.mp3
+12:Tamiga 2Bad In Havana.mp3
+13:Unstoppable - Sia.mp3
+14:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
+15:warriyo-mortals-RGjIYW6EBO.mp3
 playlist_end
