@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 0
-time: 7.333000
+current: 10
+time: 127.711000
 random: 0
 repeat: 1
 single: 1
@@ -28,4 +28,7 @@ playlist_begin
 13:Unstoppable - Sia.mp3
 14:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
 15:warriyo-mortals-RGjIYW6EBO.mp3
+16:Gasolina - Daddy Yankee.mp3
+17:Mark Marku - Da si htjela.mp3
+18:Mi Amigo, Mi Hermano.mp3
 playlist_end
