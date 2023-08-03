@@ -732,3 +732,62 @@ Jul 28 04:40 : update: updating /Mark Marku - Da si htjela.mp3
 Jul 28 04:42 : update: updating /Mi Amigo, Mi Hermano.mp3
 Jul 28 04:42 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
 Jul 28 04:42 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jul 28 07:06 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 28 12:47 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 28 16:21 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 29 03:23 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 29 17:22 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 29 23:56 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 03:03 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 03:07 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 04:04 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 04:08 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 04:28 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 05:49 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 30 17:08 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 31 02:13 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 31 05:04 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Jul 31 12:24 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 06:30 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:30 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:34 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:38 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:43 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:47 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:51 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:55 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 17:59 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 19:38 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 01 23:54 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 02 02:45 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 02 04:49 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 02 16:38 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 02 18:54 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 02 19:26 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 02 19:26 : update: added /Roy Jones Jr  Cant Be Touched.mp3
+Aug 02 19:26 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 02 19:27 : update: updating /Roy Jones Jr  Cant Be Touched.mp3
+Aug 02 19:27 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 02 19:27 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 02 20:54 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:36 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:39 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:43 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:47 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:51 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:55 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 02:58 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 03:02 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 03:05 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 03:10 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 03:15 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
+Aug 03 03:19 : player: played "Roy Jones Jr  Cant Be Touched.mp3"
