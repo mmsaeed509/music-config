@@ -1,9 +1,9 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 9
-time: 129.696000
+state: play
+current: 20
+time: 13.584000
 random: 0
 repeat: 1
 single: 1
@@ -32,4 +32,5 @@ playlist_begin
 17:Unstoppable - Sia.mp3
 18:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
 19:warriyo-mortals-RGjIYW6EBO.mp3
+20:Eminem - A Like That Termik.mp3
 playlist_end
