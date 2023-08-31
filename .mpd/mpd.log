@@ -911,3 +911,120 @@ Aug 18 11:12 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such f
 Aug 18 11:12 : update: updating /Eminem - A Like That Termik.mp3
 Aug 18 11:12 : player: played "Eminem - A Like That Termik.mp3"
 Aug 18 11:12 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 18 11:17 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 11:22 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 12:58 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 16:24 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 16:28 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 16:42 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 16:47 : player: played "Eminem - A Like That Termik.mp3"
+Aug 18 21:25 : player: played "Eminem - A Like That Termik.mp3"
+Aug 19 02:42 : player: played "Eminem - A Like That Termik.mp3"
+Aug 19 02:47 : player: played "Eminem - A Like That Termik.mp3"
+Aug 19 02:51 : player: played "Eminem - A Like That Termik.mp3"
+Aug 19 03:43 : player: played "Eminem - A Like That Termik.mp3"
+Aug 19 03:48 : player: played "Eminem - A Like That Termik.mp3"
+Aug 19 03:48 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 19 03:48 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 19 03:52 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 19 03:55 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 19 03:58 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 19 12:44 : player: played "Tamiga  2Bad  I Need You.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 19 22:55 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 20 00:09 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 20 10:27 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 20 12:30 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 20 15:35 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 14:41 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 14:44 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 14:47 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 14:52 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 17:17 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 18:05 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 21 20:42 : player: played "Eminem - A Like That Termik.mp3"
+Aug 22 09:00 : player: played "Eminem - A Like That Termik.mp3"
+Aug 22 09:00 : player: played "Eminem - A Like That Termik.mp3"
+Aug 22 09:00 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 22 09:04 : player: played "Back To You - Tobu.mp3"
+Aug 22 09:09 : player: played "Eminem - A Like That Termik.mp3"
+Aug 22 09:12 : player: played "INNA x Sean Paul  Up.mp3"
+Aug 22 09:15 : player: played "Love Is The Name Of The Game.mp3"
+Aug 22 09:19 : player: played "Madonna - La Isla Bonita.mp3"
+Aug 22 09:24 : player: played "Mi Amigo, Mi Hermano.mp3"
+Aug 22 09:26 : player: played "Niko Pandetta- Pistole Nella Fendi.mp3"
+Aug 22 09:35 : player: played "Should I Stay.mp3"
+Aug 22 09:38 : player: played "Solo - River.mp3"
+Aug 22 09:42 : player: played "Stay With Me Tonight.mp3"
+Aug 22 09:47 : player: played "Stern des Sudens _ FC Bayern.mp3"
+Aug 22 09:51 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 22 10:05 : player: played "Tamiga 2Bad In Havana.mp3"
+Aug 22 10:13 : player: played "Back To You - Tobu.mp3"
+Aug 22 10:17 : player: played "Eminem - A Like That Termik.mp3"
+Aug 22 10:21 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 22 10:24 : player: played "Haaland Ha Ha Ha.mp3"
+Aug 22 10:26 : player: played "INNA x Sean Paul  Up.mp3"
+Aug 22 10:30 : player: played "Love Is The Name Of The Game.mp3"
+Aug 22 10:34 : player: played "Madonna - La Isla Bonita.mp3"
+Aug 22 10:37 : player: played "Mark Marku - Da si htjela.mp3"
+Aug 22 19:36 : player: played "Mark Marku - Da si htjela.mp3"
+Aug 24 04:17 : player: played "Mark Marku - Da si htjela.mp3"
+Aug 24 17:14 : player: played "Mark Marku - Da si htjela.mp3"
+Aug 24 21:09 : player: played "Mark Marku - Da si htjela.mp3"
+Aug 24 23:34 : player: played "Mark Marku - Da si htjela.mp3"
+Aug 24 23:35 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 24 23:35 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 24 23:51 : player: played "Eminem - A Like That Termik.mp3"
+Aug 24 23:52 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 25 02:51 : player: played "Gasolina - Daddy Yankee.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 25 20:57 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 26 00:03 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 26 01:05 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 26 01:06 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 26 08:57 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 26 19:01 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 27 07:19 : player: played "Gasolina - Daddy Yankee.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 27 13:29 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 27 15:17 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 27 16:11 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 27 16:20 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 27 23:33 : player: played "Gasolina - Daddy Yankee.mp3"
+Aug 28 05:40 : player: played "Gasolina - Daddy Yankee.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 29 03:15 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 29 15:09 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 29 18:53 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 29 19:24 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 29 20:20 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 29 22:49 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 30 01:07 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Aug 30 01:10 : player: played "Tamiga  2Bad  I Need You.mp3"
+Aug 30 03:14 : player: played "Tamiga 2Bad In Havana.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 30 14:38 : player: played "Tamiga 2Bad In Havana.mp3"
+Aug 31 02:25 : player: played "Tamiga 2Bad In Havana.mp3"
+Aug 31 19:14 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 31 19:14 : update: added /Badscandal - Tourner Dans Le Vide.mp3
+Aug 31 19:14 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Aug 31 19:14 : update: updating /Badscandal - Tourner Dans Le Vide.mp3
+Aug 31 19:14 : player: played "warriyo-mortals-RGjIYW6EBO.mp3"
+Aug 31 19:14 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
