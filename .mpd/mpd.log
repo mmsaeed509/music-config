@@ -1617,3 +1617,30 @@ Nov 18 11:48 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such f
 Nov 18 11:49 : player: played "Gasolina - Daddy Yankee.mp3"
 Nov 18 11:49 : update: removing Haaland Ha Ha Ha.mp3
 Nov 18 11:49 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Nov 18 13:46 : player: played "Laura Branigan - Self Control.mp3"
+Nov 18 22:03 : player: played "Laura Branigan - Self Control.mp3"
+Nov 19 03:52 : player: played "Laura Branigan - Self Control.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Nov 20 03:16 : player: played "Laura Branigan - Self Control.mp3"
+Nov 20 13:12 : player: played "Laura Branigan - Self Control.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Nov 21 10:10 : player: played "Laura Branigan - Self Control.mp3"
+Nov 22 00:19 : player: played "Laura Branigan - Self Control.mp3"
+Nov 22 02:38 : player: played "Laura Branigan - Self Control.mp3"
+Nov 22 14:04 : player: played "Laura Branigan - Self Control.mp3"
+Nov 23 00:59 : player: played "Laura Branigan - Self Control.mp3"
+Nov 23 12:26 : player: played "Laura Branigan - Self Control.mp3"
+Nov 24 04:20 : player: played "Laura Branigan - Self Control.mp3"
+Nov 24 05:14 : player: played "Laura Branigan - Self Control.mp3"
+Nov 24 14:21 : player: played "Laura Branigan - Self Control.mp3"
+Nov 24 16:59 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Nov 24 16:59 : update: added /MGMT - Little Dark Age.mp3
+Nov 24 16:59 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Nov 24 16:59 : update: updating /MGMT - Little Dark Age.mp3
+Nov 24 16:59 : player: played "MGMT - Little Dark Age.mp3"
+Nov 24 16:59 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
