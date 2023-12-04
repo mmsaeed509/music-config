@@ -1644,3 +1644,60 @@ Nov 24 16:59 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such f
 Nov 24 16:59 : update: updating /MGMT - Little Dark Age.mp3
 Nov 24 16:59 : player: played "MGMT - Little Dark Age.mp3"
 Nov 24 16:59 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Nov 24 18:56 : player: played "MGMT - Little Dark Age.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Nov 25 05:12 : player: played "MGMT - Little Dark Age.mp3"
+Nov 25 05:51 : player: played "MGMT - Little Dark Age.mp3"
+Nov 25 05:56 : player: played "MGMT - Little Dark Age.mp3"
+Nov 25 12:19 : player: played "MGMT - Little Dark Age.mp3"
+Nov 25 18:07 : player: played "MGMT - Little Dark Age.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Nov 26 08:52 : player: played "MGMT - Little Dark Age.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Nov 26 09:48 : player: played "MGMT - Little Dark Age.mp3"
+Nov 26 09:49 : player: played "MGMT - Little Dark Age.mp3"
+Nov 27 08:33 : player: played "MGMT - Little Dark Age.mp3"
+Nov 27 15:49 : player: played "MGMT - Little Dark Age.mp3"
+Nov 28 09:18 : player: played "MGMT - Little Dark Age.mp3"
+Nov 28 15:24 : player: played "MGMT - Little Dark Age.mp3"
+Nov 29 09:03 : player: played "MGMT - Little Dark Age.mp3"
+Nov 29 14:51 : player: played "MGMT - Little Dark Age.mp3"
+Nov 30 08:38 : player: played "MGMT - Little Dark Age.mp3"
+Nov 30 15:30 : player: played "MGMT - Little Dark Age.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 02 00:27 : player: played "MGMT - Little Dark Age.mp3"
+Dec 02 00:59 : player: played "MGMT - Little Dark Age.mp3"
+Dec 02 01:24 : player: played "MGMT - Little Dark Age.mp3"
+Dec 02 04:51 : player: played "MGMT - Little Dark Age.mp3"
+Dec 02 15:35 : player: played "MGMT - Little Dark Age.mp3"
+Dec 03 22:48 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 22:52 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 22:56 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:00 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:13 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:17 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:21 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:25 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:29 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:33 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:37 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:40 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 03 23:52 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 04 09:23 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 04 09:27 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 04 09:31 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 04 10:49 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Dec 04 10:49 : update: added /Amy Macdonald  This Is The Life.mp3
+Dec 04 10:49 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Dec 04 10:50 : update: updating /Amy Macdonald  This Is The Life.mp3
+Dec 04 10:50 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Dec 04 10:50 : player: played "Amy Macdonald  This Is The Life.mp3"

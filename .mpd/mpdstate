@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 4
-time: 9.127000
+current: 16
+time: 118.153000
 random: 0
 repeat: 1
 single: 1
@@ -20,17 +20,18 @@ playlist_begin
 5:Love Is The Name Of The Game.mp3
 6:Madonna - La Isla Bonita.mp3
 7:Mark Marku - Da si htjela.mp3
-8:Mi Amigo, Mi Hermano.mp3
-9:Niko Pandetta- Pistole Nella Fendi.mp3
-10:Roy Jones Jr  Cant Be Touched.mp3
-11:Should I Stay.mp3
-12:Solo - River.mp3
-13:Stay With Me Tonight.mp3
-14:Stern des Sudens _ FC Bayern.mp3
-15:SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3
-16:Tamiga  2Bad  I Need You.mp3
-17:Tamiga 2Bad In Havana.mp3
-18:Unstoppable - Sia.mp3
-19:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
-20:warriyo-mortals-RGjIYW6EBO.mp3
+8:MGMT - Little Dark Age.mp3
+9:Mi Amigo, Mi Hermano.mp3
+10:Niko Pandetta- Pistole Nella Fendi.mp3
+11:Roy Jones Jr  Cant Be Touched.mp3
+12:Should I Stay.mp3
+13:Solo - River.mp3
+14:Stay With Me Tonight.mp3
+15:Stern des Sudens _ FC Bayern.mp3
+16:SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3
+17:Tamiga  2Bad  I Need You.mp3
+18:Tamiga 2Bad In Havana.mp3
+19:Unstoppable - Sia.mp3
+20:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
+21:warriyo-mortals-RGjIYW6EBO.mp3
 playlist_end
