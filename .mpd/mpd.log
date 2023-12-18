@@ -1701,3 +1701,89 @@ Dec 04 10:49 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such f
 Dec 04 10:50 : update: updating /Amy Macdonald  This Is The Life.mp3
 Dec 04 10:50 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
 Dec 04 10:50 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 04 11:55 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 05 02:40 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 05 18:35 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 05 23:07 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 07 20:20 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 08 04:08 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 08 04:12 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 08 04:18 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 08 15:22 : player: played "Amy Macdonald  This Is The Life.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 08 19:11 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 08 23:18 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 09 19:02 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 09 22:52 : player: played "Amy Macdonald  This Is The Life.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 10 23:42 : player: played "Amy Macdonald  This Is The Life.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 11 18:39 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 12 01:18 : player: played "Amy Macdonald  This Is The Life.mp3"
+Dec 12 03:01 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 03:06 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 05:32 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 15:32 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 15:45 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 15:47 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 16:21 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 12 19:00 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 13 02:11 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 13 18:19 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 14 01:54 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 14 18:46 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 14 21:28 : player: played "Tamiga  2Bad  I Need You.mp3"
+Dec 15 02:38 : player: played "Tamiga  2Bad  I Need You.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 16 01:02 : player: played "Tamiga  2Bad  I Need You.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 16 02:48 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 16 13:46 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 17 02:22 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 17 12:37 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 17 12:55 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 17 12:59 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 18 01:10 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 18 07:43 : player: played "SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3"
+Dec 18 23:36 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Dec 18 23:36 : update: added /Alok  Alan Walker  Headlights feat KIDDO.mp3
+Dec 18 23:36 : update: added /GOARTUR  Иностранец.mp3
+Dec 18 23:36 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
+Dec 18 23:37 : update: updating /Alok  Alan Walker  Headlights feat KIDDO.mp3
+Dec 18 23:37 : update: updating /GOARTUR  Иностранец.mp3
+Dec 18 23:37 : player: played "GOARTUR  Иностранец.mp3"
+Dec 18 23:38 : exception: Failed to open /home/o0xwolf/.mpd/playlists: No such file or directory
