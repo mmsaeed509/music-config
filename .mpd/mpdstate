@@ -1,9 +1,9 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 0
-time: 99.405000
+state: pause
+current: 19
+time: 167.541000
 random: 0
 repeat: 1
 single: 1
@@ -12,5 +12,29 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:RiveR - Solo.mp3
+0:Alok  Alan Walker  Headlights feat KIDDO.mp3
+1:Amy Macdonald  This Is The Life.mp3
+2:Back To You - Tobu.mp3
+3:Eminem - A Like That Termik.mp3
+4:Gasolina - Daddy Yankee.mp3
+5:GOARTUR  Иностранец.mp3
+6:INNA x Sean Paul  Up.mp3
+7:Laura Branigan - Self Control.mp3
+8:Love Is The Name Of The Game.mp3
+9:Madonna - La Isla Bonita.mp3
+10:Mark Marku - Da si htjela.mp3
+11:MGMT - Little Dark Age.mp3
+12:Mi Amigo, Mi Hermano.mp3
+13:Niko Pandetta- Pistole Nella Fendi.mp3
+14:RiveR - Solo.mp3
+15:Roy Jones Jr  Cant Be Touched.mp3
+16:Should I Stay.mp3
+17:Stay With Me Tonight.mp3
+18:Stern des Sudens _ FC Bayern.mp3
+19:SUPER SAKO Ft   HAYKO   MI GNA DJ Pantelis.mp3
+20:Tamiga  2Bad  I Need You.mp3
+21:Tamiga 2Bad In Havana.mp3
+22:Unstoppable - Sia.mp3
+23:DMNDS  Fallen Roses   Calabria  Strange Fruits Release.mp3
+24:warriyo-mortals-RGjIYW6EBO.mp3
 playlist_end
